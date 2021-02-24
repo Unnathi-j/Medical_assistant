@@ -1,0 +1,43 @@
+#Demographic{
+	display: none;
+}
+#Obstetrics{
+	display: none;
+}
+#Symptoms{
+	display: none;
+}
+body{
+	margin: 0px auto;
+	padding: 5px auto;
+}
+#Complication{
+	display: none;
+}
+#Outcome{
+	display: none;
+}
+#DemographicDetails{
+	margin: 0px auto;
+	padding: 0px 5px 0px 5px;
+}
+#ObstetricsHistory{
+	margin: 0px auto;
+	padding: 0px 5px 0px 5px;	
+}
+#PreeclampsiaSymptoms{
+	margin: 0px auto;
+	padding: 0px 5px 0px 5px;		
+}
+#MaternalComplication{
+	margin: 0px auto;
+	padding: 0px 5px 0px 5px;	
+}
+#PerinatalOutcome{
+	margin: 0px auto;
+	padding: 0px 5px 0px 5px;	
+}
+.container{
+	margin: 0px auto;
+	padding: 0px 5px 0px 5px;
+}
